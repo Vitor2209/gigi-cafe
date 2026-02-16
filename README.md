@@ -2,7 +2,7 @@
 
 A modern and responsive landing page built to showcase a premium coffee machine product.
 
-This project focuses on clean layout structure, visual hierarchy, and responsive design using pure HTML, CSS, and JavaScript — no frameworks.
+This project focuses on clean layout structure, visual hierarchy, and responsive design using pure HTML, CSS, and JavaScript  no frameworks.
 
 🛠️ Tech Stack
 
